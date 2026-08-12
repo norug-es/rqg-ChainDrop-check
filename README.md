@@ -5,7 +5,7 @@
 <p align="center">
   <a href="./README-SP.md"><img src="https://img.shields.io/badge/ES-%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-C60B1E?style=for-the-badge" alt="Spanish documentation" /></a>
   <a href="./README-EN.md"><img src="https://img.shields.io/badge/EN-%F0%9F%87%AC%F0%9F%87%A7%20English-012169?style=for-the-badge" alt="English documentation" /></a>
-  <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" /></a>
 </p>
 
 # Tools Index
