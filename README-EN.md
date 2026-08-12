@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo-norug.svg" alt="NoRug.es logo" width="360" />
+  <img src="./assets/logo-norug.svg" alt="NoRug.es logo" width="360" />
 </p>
 
 
