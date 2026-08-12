@@ -27,6 +27,7 @@ The `tools/` directory contains a fast, read-only inspection tool for detecting 
 
 - [Guía completa en español](./README-SP.md)
 - [Full guide in English](./README-EN.md)
+- - [Local Auditoria en español](./LOCAL-AUDIT.md)
 
 ## What it does
 
